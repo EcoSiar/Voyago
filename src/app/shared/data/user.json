@@ -1,1 +1,63 @@
- 
+[
+    {
+      "email": "user1@example.com",
+      "password": "password1",
+      "age": 28,
+      "gender": "male"
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "age": 35,
+      "gender": "female"
+    },
+    {
+      "email": "user3@example.com",
+      "password": "password3",
+      "age": 21,
+      "gender": "non-binary"
+    },
+    {
+      "email": "user4@example.com",
+      "password": "password4",
+      "age": 42,
+      "gender": "male"
+    },
+    {
+      "email": "user5@example.com",
+      "password": "password5",
+      "age": 19,
+      "gender": "female"
+    },
+    {
+      "email": "user6@example.com",
+      "password": "password6",
+      "age": 30,
+      "gender": "male"
+    },
+    {
+      "email": "user7@example.com",
+      "password": "password7",
+      "age": 25,
+      "gender": "female"
+    },
+    {
+      "email": "user8@example.com",
+      "password": "password8",
+      "age": 36,
+      "gender": "non-binary"
+    },
+    {
+      "email": "user9@example.com",
+      "password": "password9",
+      "age": 23,
+      "gender": "male"
+    },
+    {
+      "email": "user10@example.com",
+      "password": "password10",
+      "age": 29,
+      "gender": "female"
+    }
+  ]
+  
